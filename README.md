@@ -2,7 +2,7 @@
 myworld 测试器
 
 
-#env 基本配置
+## env 基本配置
 
 
 
@@ -73,5 +73,5 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 
 
-#测试   
+# 快速测试   
 php artisan serve
