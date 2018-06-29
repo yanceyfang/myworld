@@ -11,7 +11,7 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
-    public function SUCCESS($info,$status = "SUCCESS"){
+    public function SUCCESS($info="",$status = "SUCCESS"){
         $data = array();
         $data['code'] = '200';
         $data['status'] = $status;

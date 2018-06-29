@@ -8,6 +8,10 @@
 namespace App\Service;
 
 
+
+use App\Jobs\TestJob;
+use App\Model\Testnum;
+
 class TestService {
 
 
@@ -15,6 +19,8 @@ class TestService {
     private $id;
     private $name;
     private $title;
+    private $num;
+    private $testNumMod;
 
 
 
@@ -22,6 +28,7 @@ class TestService {
     public function __construct()
     {
         //todo balabala
+        $this->testNumMod = new Testnum();
 
 
     }
@@ -39,8 +46,24 @@ class TestService {
         return [
             'id'=>$this->id,
             'name'=>$this->name,
-            'title'=>$this->title
+            'title'=>$this->title,
+            'num'=>$this->num
         ];
+    }
+
+
+    public function testQueueIn(){
+
+       $this->testNumMod->addSum(1,2);
+//队列测试
+//        return TestJob::dispatch($this->id,$this->num)->onQueue('aaa')
+//            ->delay(now()->addSecond(5));
+    }
+
+    public function testQueueIn2(){
+
+        $this->testNumMod->addSum2(1,1);
+
     }
 
 
