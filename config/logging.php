@@ -50,6 +50,12 @@ return [
             'level' => 'debug',
             'days' => 7,
         ],
+        'process' => [
+            'driver' => 'daily',
+            'path' => storage_path('logs/process.log'),
+            'level' => 'info',
+            'days' => 7,
+        ],
 
         'slack' => [
             'driver' => 'slack',
