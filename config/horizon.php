@@ -84,9 +84,16 @@ return [
         'local' => [
             'supervisor-1' => [
                 'connection' => 'redis',
+                'queue' => ['Preferred','Reserve'],
+                'balance' => 'auto',
+                'processes' => 10,
+                'tries' => 3,
+            ],
+            'supervisor-2' => [
+                'connection' => 'redis',
                 'queue' => ['default'],
-                'balance' => 'simple',
-                'processes' => 3,
+                'balance' => 'false',
+                'processes' => 1,
                 'tries' => 3,
             ],
         ],
