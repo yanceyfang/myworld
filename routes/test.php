@@ -16,6 +16,7 @@
 Route::prefix('v1')->group(function(){
     Route::get('test1','Test\TestController@test1');
     Route::get('test2','Test\TestController@test2');
+    Route::get('test3','Test\TestController@test3');
 
 
 

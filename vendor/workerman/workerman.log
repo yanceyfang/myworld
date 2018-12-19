@@ -1,0 +1,338 @@
+2018-11-15 17:23:37 pid:32076 Workerman[artisan] start in DAEMON mode
+2018-11-15 17:30:36 pid:319 Workerman[artisan] stop 
+2018-11-15 17:30:36 pid:319 Workerman[artisan] is stopping ...
+2018-11-15 17:30:36 pid:32081 Workerman[artisan] stopping ...
+2018-11-15 17:30:37 pid:32081 Workerman[artisan] has been stopped
+2018-11-15 17:30:37 pid:319 Workerman[artisan] stop success
+2018-11-15 17:35:18 pid:798 Workerman[artisan] start in DAEMON mode
+2018-11-15 17:40:54 pid:1357 Workerman[artisan] stop 
+2018-11-15 17:40:54 pid:1357 Workerman[artisan] is stopping ...
+2018-11-15 17:40:54 pid:803 Workerman[artisan] stopping ...
+2018-11-15 17:40:54 pid:803 Workerman[artisan] has been stopped
+2018-11-15 17:40:54 pid:1357 Workerman[artisan] stop success
+2018-11-15 17:42:41 pid:1551 Workerman[artisan] start in DAEMON mode
+2018-11-15 19:41:21 pid:13450 Workerman[artisan] stop 
+2018-11-15 19:41:21 pid:13450 Workerman[artisan] is stopping ...
+2018-11-15 19:41:21 pid:1556 Workerman[artisan] stopping ...
+2018-11-15 19:41:21 pid:1556 Workerman[artisan] has been stopped
+2018-11-15 19:41:21 pid:13450 Workerman[artisan] stop success
+2018-11-15 19:44:28 pid:13764 Workerman[artisan] start in DAEMON mode
+2018-11-15 19:45:36 pid:13886 Workerman[artisan] stop 
+2018-11-15 19:45:36 pid:13886 Workerman[artisan] is stopping ...
+2018-11-15 19:45:36 pid:13769 Workerman[artisan] stopping ...
+2018-11-15 19:45:36 pid:13769 Workerman[artisan] has been stopped
+2018-11-15 19:45:36 pid:13886 Workerman[artisan] stop success
+2018-11-15 19:46:51 pid:14006 Workerman[artisan] start in DAEMON mode
+2018-11-15 19:47:19 pid:14065 Workerman[artisan] stop 
+2018-11-15 19:47:19 pid:14065 Workerman[artisan] is stopping ...
+2018-11-15 19:47:19 pid:14011 Workerman[artisan] stopping ...
+2018-11-15 19:47:19 pid:14011 Workerman[artisan] has been stopped
+2018-11-15 19:47:19 pid:14065 Workerman[artisan] stop success
+2018-11-15 19:47:20 pid:14072 Workerman[artisan] start in DAEMON mode
+2018-11-15 19:49:11 pid:14280 Workerman[artisan] stop 
+2018-11-15 19:49:11 pid:14280 Workerman[artisan] is stopping ...
+2018-11-15 19:49:11 pid:14077 Workerman[artisan] stopping ...
+2018-11-15 19:49:11 pid:14077 Workerman[artisan] has been stopped
+2018-11-15 19:49:11 pid:14280 Workerman[artisan] stop success
+2018-11-15 19:49:12 pid:14286 Workerman[artisan] start in DAEMON mode
+2018-11-15 19:52:15 pid:14586 Workerman[artisan] stop 
+2018-11-15 19:52:15 pid:14586 Workerman[artisan] is stopping ...
+2018-11-15 19:52:15 pid:14292 Workerman[artisan] stopping ...
+2018-11-15 19:52:15 pid:14292 Workerman[artisan] has been stopped
+2018-11-15 19:52:15 pid:14586 Workerman[artisan] stop success
+2018-11-15 19:53:38 pid:14733 Workerman[artisan] start in DAEMON mode
+2018-11-15 19:58:21 pid:15200 Workerman[artisan] stop 
+2018-11-15 19:58:21 pid:15200 Workerman[artisan] is stopping ...
+2018-11-15 19:58:21 pid:14738 Workerman[artisan] stopping ...
+2018-11-15 19:58:21 pid:14738 Workerman[artisan] has been stopped
+2018-11-15 19:58:21 pid:15200 Workerman[artisan] stop success
+2018-11-15 19:58:22 pid:15206 Workerman[artisan] start in DAEMON mode
+2018-11-15 19:58:55 pid:15267 Workerman[artisan] stop 
+2018-11-15 19:58:55 pid:15267 Workerman[artisan] is stopping ...
+2018-11-15 19:58:55 pid:15212 Workerman[artisan] stopping ...
+2018-11-15 19:58:55 pid:15212 Workerman[artisan] has been stopped
+2018-11-15 19:58:55 pid:15267 Workerman[artisan] stop success
+2018-11-15 19:58:56 pid:15272 Workerman[artisan] start in DAEMON mode
+2018-11-15 21:38:15 pid:25123 Workerman[artisan] start in DEBUG mode
+2018-11-15 21:38:15 pid:25123 Workerman[artisan] already running
+2018-11-15 21:38:39 pid:25162 Workerman[artisan] stop 
+2018-11-15 21:38:39 pid:25162 Workerman[artisan] is stopping ...
+2018-11-15 21:38:39 pid:15277 Workerman[artisan] stopping ...
+2018-11-15 21:38:39 pid:15277 Workerman[artisan] has been stopped
+2018-11-15 21:38:39 pid:25162 Workerman[artisan] stop success
+2018-11-15 21:38:44 pid:25172 Workerman[artisan] start in DEBUG mode
+2018-11-15 21:44:24 pid:25172 Workerman[artisan] stopping ...
+2018-11-15 21:44:24 pid:25172 Workerman[artisan] has been stopped
+2018-11-15 21:44:32 pid:25749 Workerman[artisan] start in DEBUG mode
+2018-11-15 21:54:19 pid:25749 Workerman[artisan] stopping ...
+2018-11-15 21:54:19 pid:25749 Workerman[artisan] has been stopped
+2018-11-15 21:54:39 pid:26756 Workerman[artisan] start in DEBUG mode
+2018-11-15 21:54:39 pid:26761 ErrorException: stream_socket_server(): unable to connect to tcp://0.0.0.0:5678 (Address already in use) in /data/www/laravel-test/vendor/workerman/workerman/Worker.php:2178
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'stream_socket_s...', '/data/www/larav...', 2178, Array)
+#1 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2178): stream_socket_server('tcp://0.0.0.0:5...', 0, 'Address already...', 12, Resource id #417)
+#2 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(55): Workerman\Worker->listen()
+#3 [internal function]: App\Console\Commands\WorkermanCommand->App\Console\Commands\{closure}(Object(Workerman\Worker))
+#4 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2307): call_user_func(Object(Closure), Object(Workerman\Worker))
+#5 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#9 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(87): Workerman\Worker::runAll()
+#10 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(22): App\Console\Commands\WorkermanCommand->start()
+#11 [internal function]: App\Console\Commands\WorkermanCommand->handle()
+#12 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#13 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#14 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#15 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(564): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#16 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(179): Illuminate\Container\Container->call(Array)
+#17 /data/www/laravel-test/vendor/symfony/console/Command/Command.php(255): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#18 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(166): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#19 /data/www/laravel-test/vendor/symfony/console/Application.php(886): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#20 /data/www/laravel-test/vendor/symfony/console/Application.php(262): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\WorkermanCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#21 /data/www/laravel-test/vendor/symfony/console/Application.php(145): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Application.php(89): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(122): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /data/www/laravel-test/artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 {main}
+2018-11-15 21:54:40 pid:26761 Worker[26761] process terminated
+2018-11-15 21:54:40 pid:26756 worker[none:26761] exit with status 64000
+2018-11-15 21:54:40 pid:26764 ErrorException: stream_socket_server(): unable to connect to tcp://0.0.0.0:5678 (Address already in use) in /data/www/laravel-test/vendor/workerman/workerman/Worker.php:2178
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'stream_socket_s...', '/data/www/larav...', 2178, Array)
+#1 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2178): stream_socket_server('tcp://0.0.0.0:5...', 0, 'Address already...', 12, Resource id #418)
+#2 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(55): Workerman\Worker->listen()
+#3 [internal function]: App\Console\Commands\WorkermanCommand->App\Console\Commands\{closure}(Object(Workerman\Worker))
+#4 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2307): call_user_func(Object(Closure), Object(Workerman\Worker))
+#5 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#9 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#11 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(87): Workerman\Worker::runAll()
+#12 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(22): App\Console\Commands\WorkermanCommand->start()
+#13 [internal function]: App\Console\Commands\WorkermanCommand->handle()
+#14 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#15 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#16 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#17 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(564): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#18 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(179): Illuminate\Container\Container->call(Array)
+#19 /data/www/laravel-test/vendor/symfony/console/Command/Command.php(255): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#20 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(166): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#21 /data/www/laravel-test/vendor/symfony/console/Application.php(886): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /data/www/laravel-test/vendor/symfony/console/Application.php(262): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\WorkermanCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /data/www/laravel-test/vendor/symfony/console/Application.php(145): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Application.php(89): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(122): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /data/www/laravel-test/artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#27 {main}
+2018-11-15 21:54:41 pid:26764 Worker[26764] process terminated
+2018-11-15 21:54:41 pid:26756 worker[none:26764] exit with status 64000
+2018-11-15 21:54:41 pid:26767 ErrorException: stream_socket_server(): unable to connect to tcp://0.0.0.0:5678 (Address already in use) in /data/www/laravel-test/vendor/workerman/workerman/Worker.php:2178
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'stream_socket_s...', '/data/www/larav...', 2178, Array)
+#1 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2178): stream_socket_server('tcp://0.0.0.0:5...', 0, 'Address already...', 12, Resource id #419)
+#2 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(55): Workerman\Worker->listen()
+#3 [internal function]: App\Console\Commands\WorkermanCommand->App\Console\Commands\{closure}(Object(Workerman\Worker))
+#4 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2307): call_user_func(Object(Closure), Object(Workerman\Worker))
+#5 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#9 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#11 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(87): Workerman\Worker::runAll()
+#12 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(22): App\Console\Commands\WorkermanCommand->start()
+#13 [internal function]: App\Console\Commands\WorkermanCommand->handle()
+#14 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#15 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#16 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#17 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(564): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#18 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(179): Illuminate\Container\Container->call(Array)
+#19 /data/www/laravel-test/vendor/symfony/console/Command/Command.php(255): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#20 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(166): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#21 /data/www/laravel-test/vendor/symfony/console/Application.php(886): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /data/www/laravel-test/vendor/symfony/console/Application.php(262): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\WorkermanCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /data/www/laravel-test/vendor/symfony/console/Application.php(145): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Application.php(89): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(122): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /data/www/laravel-test/artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#27 {main}
+2018-11-15 21:54:42 pid:26767 Worker[26767] process terminated
+2018-11-15 21:54:43 pid:26756 worker[none:26767] exit with status 64000
+2018-11-15 21:54:43 pid:26769 ErrorException: stream_socket_server(): unable to connect to tcp://0.0.0.0:5678 (Address already in use) in /data/www/laravel-test/vendor/workerman/workerman/Worker.php:2178
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'stream_socket_s...', '/data/www/larav...', 2178, Array)
+#1 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2178): stream_socket_server('tcp://0.0.0.0:5...', 0, 'Address already...', 12, Resource id #420)
+#2 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(55): Workerman\Worker->listen()
+#3 [internal function]: App\Console\Commands\WorkermanCommand->App\Console\Commands\{closure}(Object(Workerman\Worker))
+#4 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2307): call_user_func(Object(Closure), Object(Workerman\Worker))
+#5 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#9 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#11 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(87): Workerman\Worker::runAll()
+#12 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(22): App\Console\Commands\WorkermanCommand->start()
+#13 [internal function]: App\Console\Commands\WorkermanCommand->handle()
+#14 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#15 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#16 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#17 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(564): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#18 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(179): Illuminate\Container\Container->call(Array)
+#19 /data/www/laravel-test/vendor/symfony/console/Command/Command.php(255): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#20 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(166): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#21 /data/www/laravel-test/vendor/symfony/console/Application.php(886): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /data/www/laravel-test/vendor/symfony/console/Application.php(262): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\WorkermanCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /data/www/laravel-test/vendor/symfony/console/Application.php(145): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Application.php(89): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(122): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /data/www/laravel-test/artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#27 {main}
+2018-11-15 21:54:44 pid:26769 Worker[26769] process terminated
+2018-11-15 21:54:44 pid:26756 worker[none:26769] exit with status 64000
+2018-11-15 21:54:44 pid:26771 ErrorException: stream_socket_server(): unable to connect to tcp://0.0.0.0:5678 (Address already in use) in /data/www/laravel-test/vendor/workerman/workerman/Worker.php:2178
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'stream_socket_s...', '/data/www/larav...', 2178, Array)
+#1 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2178): stream_socket_server('tcp://0.0.0.0:5...', 0, 'Address already...', 12, Resource id #421)
+#2 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(55): Workerman\Worker->listen()
+#3 [internal function]: App\Console\Commands\WorkermanCommand->App\Console\Commands\{closure}(Object(Workerman\Worker))
+#4 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2307): call_user_func(Object(Closure), Object(Workerman\Worker))
+#5 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#9 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#11 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(87): Workerman\Worker::runAll()
+#12 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(22): App\Console\Commands\WorkermanCommand->start()
+#13 [internal function]: App\Console\Commands\WorkermanCommand->handle()
+#14 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#15 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#16 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#17 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(564): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#18 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(179): Illuminate\Container\Container->call(Array)
+#19 /data/www/laravel-test/vendor/symfony/console/Command/Command.php(255): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#20 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(166): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#21 /data/www/laravel-test/vendor/symfony/console/Application.php(886): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /data/www/laravel-test/vendor/symfony/console/Application.php(262): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\WorkermanCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /data/www/laravel-test/vendor/symfony/console/Application.php(145): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Application.php(89): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(122): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /data/www/laravel-test/artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#27 {main}
+2018-11-15 21:54:45 pid:26771 Worker[26771] process terminated
+2018-11-15 21:54:45 pid:26756 worker[none:26771] exit with status 64000
+2018-11-15 21:54:45 pid:26773 ErrorException: stream_socket_server(): unable to connect to tcp://0.0.0.0:5678 (Address already in use) in /data/www/laravel-test/vendor/workerman/workerman/Worker.php:2178
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'stream_socket_s...', '/data/www/larav...', 2178, Array)
+#1 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2178): stream_socket_server('tcp://0.0.0.0:5...', 0, 'Address already...', 12, Resource id #422)
+#2 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(55): Workerman\Worker->listen()
+#3 [internal function]: App\Console\Commands\WorkermanCommand->App\Console\Commands\{closure}(Object(Workerman\Worker))
+#4 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2307): call_user_func(Object(Closure), Object(Workerman\Worker))
+#5 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#9 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#11 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(87): Workerman\Worker::runAll()
+#12 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(22): App\Console\Commands\WorkermanCommand->start()
+#13 [internal function]: App\Console\Commands\WorkermanCommand->handle()
+#14 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#15 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#16 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#17 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(564): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#18 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(179): Illuminate\Container\Container->call(Array)
+#19 /data/www/laravel-test/vendor/symfony/console/Command/Command.php(255): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#20 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(166): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#21 /data/www/laravel-test/vendor/symfony/console/Application.php(886): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /data/www/laravel-test/vendor/symfony/console/Application.php(262): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\WorkermanCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /data/www/laravel-test/vendor/symfony/console/Application.php(145): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Application.php(89): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(122): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /data/www/laravel-test/artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#27 {main}
+2018-11-15 21:54:46 pid:26773 Worker[26773] process terminated
+2018-11-15 21:54:46 pid:26756 worker[none:26773] exit with status 64000
+2018-11-15 21:54:46 pid:26775 ErrorException: stream_socket_server(): unable to connect to tcp://0.0.0.0:5678 (Address already in use) in /data/www/laravel-test/vendor/workerman/workerman/Worker.php:2178
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'stream_socket_s...', '/data/www/larav...', 2178, Array)
+#1 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2178): stream_socket_server('tcp://0.0.0.0:5...', 0, 'Address already...', 12, Resource id #423)
+#2 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(55): Workerman\Worker->listen()
+#3 [internal function]: App\Console\Commands\WorkermanCommand->App\Console\Commands\{closure}(Object(Workerman\Worker))
+#4 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2307): call_user_func(Object(Closure), Object(Workerman\Worker))
+#5 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#9 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#11 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(87): Workerman\Worker::runAll()
+#12 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(22): App\Console\Commands\WorkermanCommand->start()
+#13 [internal function]: App\Console\Commands\WorkermanCommand->handle()
+#14 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#15 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#16 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#17 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(564): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#18 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(179): Illuminate\Container\Container->call(Array)
+#19 /data/www/laravel-test/vendor/symfony/console/Command/Command.php(255): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#20 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(166): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#21 /data/www/laravel-test/vendor/symfony/console/Application.php(886): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /data/www/laravel-test/vendor/symfony/console/Application.php(262): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\WorkermanCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /data/www/laravel-test/vendor/symfony/console/Application.php(145): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Application.php(89): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(122): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /data/www/laravel-test/artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#27 {main}
+2018-11-15 21:54:47 pid:26775 Worker[26775] process terminated
+2018-11-15 21:54:47 pid:26756 worker[none:26775] exit with status 64000
+2018-11-15 21:54:47 pid:26777 ErrorException: stream_socket_server(): unable to connect to tcp://0.0.0.0:5678 (Address already in use) in /data/www/laravel-test/vendor/workerman/workerman/Worker.php:2178
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'stream_socket_s...', '/data/www/larav...', 2178, Array)
+#1 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2178): stream_socket_server('tcp://0.0.0.0:5...', 0, 'Address already...', 12, Resource id #424)
+#2 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(55): Workerman\Worker->listen()
+#3 [internal function]: App\Console\Commands\WorkermanCommand->App\Console\Commands\{closure}(Object(Workerman\Worker))
+#4 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(2307): call_user_func(Object(Closure), Object(Workerman\Worker))
+#5 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#9 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/www/laravel-test/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#11 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(87): Workerman\Worker::runAll()
+#12 /data/www/laravel-test/app/Console/Commands/WorkermanCommand.php(22): App\Console\Commands\WorkermanCommand->start()
+#13 [internal function]: App\Console\Commands\WorkermanCommand->handle()
+#14 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#15 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#16 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#17 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(564): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#18 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(179): Illuminate\Container\Container->call(Array)
+#19 /data/www/laravel-test/vendor/symfony/console/Command/Command.php(255): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#20 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(166): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#21 /data/www/laravel-test/vendor/symfony/console/Application.php(886): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /data/www/laravel-test/vendor/symfony/console/Application.php(262): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\WorkermanCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /data/www/laravel-test/vendor/symfony/console/Application.php(145): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Console/Application.php(89): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /data/www/laravel-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(122): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /data/www/laravel-test/artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#27 {main}
+2018-11-15 21:54:47 pid:26777 Worker[26777] process terminated
+2018-11-15 21:54:47 pid:26756 Workerman[artisan] stopping ...
+2018-11-15 21:54:47 pid:26756 worker[none:26777] exit with status 64000
+2018-11-15 21:54:47 pid:26756 Workerman[artisan] has been stopped
+2018-11-15 21:55:02 pid:26806 Workerman[artisan] start in DEBUG mode
+2018-11-16 13:12:45 pid:26806 Workerman[artisan] stopping ...
+2018-11-16 13:12:45 pid:26806 Workerman[artisan] has been stopped
+2018-11-16 13:12:48 pid:22134 Workerman[artisan] start in DEBUG mode
+2018-11-16 13:39:58 pid:22134 Workerman[artisan] stopping ...
+2018-11-16 13:39:58 pid:22134 Workerman[artisan] has been stopped
+2018-11-16 13:41:22 pid:24978 Workerman[artisan] start in DEBUG mode
+2018-11-16 13:41:27 pid:24978 Workerman[artisan] stopping ...
+2018-11-16 13:41:27 pid:24978 Workerman[artisan] has been stopped
+2018-11-16 13:41:33 pid:24994 Workerman[artisan] start in DEBUG mode
+2018-11-16 13:43:03 pid:24994 Workerman[artisan] stopping ...
+2018-11-16 13:43:03 pid:24994 Workerman[artisan] has been stopped
+2018-11-16 16:13:22 pid:7590 Workerman[artisan] start in DEBUG mode

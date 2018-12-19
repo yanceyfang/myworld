@@ -1,0 +1,11 @@
+{
+    "name": "yancey/test",
+    "description": "this is test",
+    "authors": [
+        {
+            "name": "fangyaoxin",
+            "email": "342649075@qq.com"
+        }
+    ],
+    "require": {}
+}

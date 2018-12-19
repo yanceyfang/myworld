@@ -35,9 +35,26 @@ class ProcessPodcast implements ShouldQueue
         for ($i = 0; $i<50000 ;$i++){
             $a = 130948234902384*443274230*34892*30492*432/3423;
         }
-        sleep(3);
+        sleep(2);
 
         return true;
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

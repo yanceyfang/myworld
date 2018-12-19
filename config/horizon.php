@@ -84,14 +84,14 @@ return [
         'local' => [
             'supervisor-1' => [
                 'connection' => 'redis',
-                'queue' => ['Preferred','Reserve'],
+                'queue' => ['default','Reserve'],
                 'balance' => 'auto',
                 'processes' => 10,
                 'tries' => 3,
             ],
             'supervisor-2' => [
                 'connection' => 'redis',
-                'queue' => ['default'],
+                'queue' => ['sequence'],
                 'balance' => 'false',
                 'processes' => 1,
                 'tries' => 3,
